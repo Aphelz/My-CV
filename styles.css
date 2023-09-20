@@ -1,0 +1,68 @@
+    body{
+      background-color: aliceblue;
+    }
+
+  h2{
+    color:cornflowerblue
+  }
+    .Profile-Photo{
+      width:200px;
+      border-radius: 100px;
+    }
+
+    .div-1{
+      display: inline-block;
+      pos
+    
+    }
+
+    .div-2{
+      display: inline-block;
+      width:450px;
+      position: absolute;
+      top:50px;
+      left:240px;
+      
+    }
+
+    .P1{
+      font-style: italic;
+    }
+
+    .span{
+      text-decoration: underline;
+      color: blue;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .date{
+      font-weight: bold;
+    }
+
+    .work{
+      font-weight: bold;
+    }
+
+    span{
+      color: gold;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+    
+    }
+
+  .Hobbies{
+    display: inline-block;
+    padding-left: 0px;
+    margin-left: 0px;
+    
+  }
+
+  .Contact{
+    display:inline-block;
+    padding-left: 25px;
+  }
+
+  .list{
+    list-style: none;
+  }
